@@ -6,3 +6,6 @@ matplotlib
 plotly
 tqdm
 seaborn
+torch
+torchvision
+opencv-python
